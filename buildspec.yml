@@ -13,4 +13,4 @@ phases:
       - mv target/deploy ./
 artficats:
   files:
-    -deploy/**/*
+    - deploy/**/*
